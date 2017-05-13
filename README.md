@@ -8,3 +8,7 @@ This is an alfred workflow that opens the streamming content in the current tab 
 	* Enable youtube-dl
 	* Enter `/usr/local/bin/` in the textbox
 ![](http://i.imgur.com/3vLQXk0.png)
+* Download the [workflow](https://github.com/CarlosEvo/alfred_open_iina/blob/master/Open%20in%20IINA.alfredworkflow?raw=true) and click to install.
+
+# Usage
+* When viewing stream contents, type `opiina` in Alfred.
