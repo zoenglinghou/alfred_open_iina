@@ -1,2 +1,10 @@
 # alfred_open_iina
-Open Current Stream with IINA. Based on https://sspai.com/post/39139 
+This is an alfred workflow that opens the streamming content in the current tab of Chrome with [IINA](https://github.com/lhc70000/iina). It is the alfred workflow version of [the automator workflow by sspai](https://sspai.com/post/39139).
+
+# Installation
+* Install youtube-dl via `Homebrew`
+	`brew install youtube-dl`
+* In IINA's preference -> Network
+	* Enable youtube-dl
+	* Enter `/usr/local/bin/` in the textbox
+![](http://i.imgur.com/3vLQXk0.png)
